@@ -133,8 +133,8 @@ resultado_un_grupo
 # Es decir, en el sector educación los trabajadores tienen una edad 
 # promedio bastante más alta, por lo que se requieren más años de vida para alcanzar
 # sueldos elevados.
-# LIMITACIÓN: Al segmentar la muestra, sectores como Comercio (n = 2) o Educación
-# (n = 4) quedan con muy pocas observaciones, por lo que no son representativos y un 
+# LIMITACIÓN: Al segmentar la muestra, sectores como Comercio con un n=2 o Educación
+# con un n=4, quedan con muy pocas observaciones, por lo que no son representativos y un 
 # valor atípico alterar completamente el resultado. 
 # Además, la edad no es el único factor que  determina el ingreso
 # también influyen las horas trabajadas, el nivel educativo y el cargo, elementos
