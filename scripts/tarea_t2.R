@@ -55,8 +55,8 @@ casen <- casen |>
   )
 
 # Verificación de ausencia de valores NA en las categorías
-table(casen$nivel_educ, useNA = "ifany")
-table(casen$grupo_etario, useNA = "ifany")
+table(casen$nivel_educ, useNA = "ifany")    
+table(casen$grupo_etario, useNA = "ifany")  
 
 
 # 4. AGREGA CON GROUP_BY()
