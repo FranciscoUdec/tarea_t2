@@ -3,6 +3,10 @@
 Analiza en qué sector económico rinde más cada año de edad de los
 trabajadores, usando la base CASEN 2022.
 
+#¿En qué sector económico rinde más cada año de edad de los trabajadores?
+El sector Servicios presenta el mayor rendimiento por cada año de edad de los 
+trabajadores
+
 ## Datos
 "CASEN 2022"(Ministerio de Desarrollo Social y Familia) 
 Archivo en `data/raw/casen_reducido.csv`
